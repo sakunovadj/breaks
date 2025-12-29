@@ -1,5 +1,4 @@
 {
   "_base": "https://raw.githubusercontent.com/sakunovadj/breaks/main/",
-  "shade": "MO_MK_145_drum_loop_shade.wav",
-  "snc1": "MO_HA_140_synth_loop_caustics_Cmaj.wav"
+  "shade": ["MO_MK_145_drum_loop_shade.wav", "MO_HA_140_synth_loop_caustics_Cmaj.wav"]
 }
