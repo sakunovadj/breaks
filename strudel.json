@@ -1,3 +1,4 @@
 {
-"breaks": ["MO_MK_145_drum_loop_shade.wav"]
+  "_base": "https://raw.githubusercontent.com/sakunovadj/breaks/main/",
+  "shade": "MO_MK_145_drum_loop_shade.wav"
 }
